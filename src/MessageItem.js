@@ -8,7 +8,7 @@ class MessageItem extends React.Component {
 				<div>
 				<div className="MessageItem u-pull-left">
 					{this.props.data.message}
-				</div><br/>
+				</div><br></br>
 				</div>
 			);
 		} else {
